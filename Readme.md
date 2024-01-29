@@ -69,4 +69,5 @@ testautomationpractice/
 
 Obs: 
 Por que não usar o Padrão Page Object Model (POM) 
+
 Na escolha entre usar o Padrão Page Object Model (POM) ou uma estrutura mais simples depende do tamanho e a complexidade do projeto. O POM é mais apropriado para projetos de automação maiores e complexos, e na estrutura simplificada pode ser preferida para projetos menores e mais diretos, oferecendo maior flexibilidade e simplicidade.
