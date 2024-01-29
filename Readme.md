@@ -1,6 +1,6 @@
 # Projeto de Automação de Testes
 
-Este projeto é uma suíte de automação de testes para a aplicação web [Nome da Aplicação], utilizando Playwright com Java e Cucumber.
+Este projeto é uma suíte de automação de testes para a aplicação web [testautomationpracticee](https://www.automationexercise.com/), utilizando Playwright com Java e Cucumber.
 
 ## **Pré-requisitos**
 
@@ -20,7 +20,7 @@ Para configurar e executar este projeto, você precisará ter instalado:
     - Baixe e instale o Maven seguindo as instruções da página oficial do Maven.
     - Adicione o diretório **`bin`** do Maven ao **`PATH`** do sistema.
 3. **Clonar o Repositório do Projeto**:
-    - Utilize o comando **`git clone [URL do Repositório]`** para clonar o repositório do projeto em sua máquina local.
+    - Utilize o comando **`git clone https://github.com/Rodscaloppe/testautomationpracticee`** para clonar o repositório do projeto em sua máquina local.
 4. **Instalar Dependências**:
     - Navegue até o diretório do projeto clonado e execute **`mvn install`** para instalar todas as dependências necessárias.
 
@@ -67,6 +67,5 @@ testautomationpractice/
 └── pom.xml  # Arquivo de configuração do Maven
 ```
 
-Obs: Por que não usar o Padrão Page Object Model (POM)
-
-Na escolha entre usar o Padrão Page Object Model (POM) ou uma estrutura mais simples depende do tamanho e a complexidade do projeto. O POM é mais apropriado para projetos de automação maiores e complexos, e na estrutura simplificada pode ser preferida para projetos menores e mais diretos, oferecendo maior flexibilidade e simplicidade.
+Obs: 
+Por que não usar o Padrão Page Object Model (POM) Na escolha entre usar o Padrão Page Object Model (POM) ou uma estrutura mais simples depende do tamanho e a complexidade do projeto. O POM é mais apropriado para projetos de automação maiores e complexos, e na estrutura simplificada pode ser preferida para projetos menores e mais diretos, oferecendo maior flexibilidade e simplicidade.
