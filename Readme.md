@@ -68,9 +68,9 @@ testautomationpractice/
 ```
 
 Obs: 
-- Porque não usar o Padrão Page Object Model (POM);
+- Porque não usar o Padrão Page Object Model (POM)
 
 Na escolha entre usar o Padrão Page Object Model (POM) ou uma estrutura mais simples depende do tamanho e a complexidade do projeto. O POM é mais apropriado para projetos de automação maiores e complexos, e na estrutura simplificada pode ser preferida para projetos menores e mais diretos, oferecendo maior flexibilidade e simplicidade.
-- Porque não usei cucumber para automatizar API;
+- Porque não usei cucumber para automatizar API
 
 Sem o uso pode ser mais eficiente devido à complexidade desnecessária e à sobreposição de funcionalidades. O Cucumber sendo uma ferramenta BDD, adiciona uma camada extra de abstração que pode não ser necessária para testes de API diretos, e manter testes em Gherkin pode ser mais trabalhoso comparado a usar ferramentas específicas para API, como RestAssured, que são mais diretas e menos abstratas.
